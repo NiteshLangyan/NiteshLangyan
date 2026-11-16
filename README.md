@@ -20,17 +20,20 @@ My focus is **Laravel back ends and admin portals**, **CS-Cart e-commerce**, and
 ### 🚀 What I specialise in
 
 - 🗂️ **Admin portals with a Laravel back end:** dashboards, role-based access, reporting and content/order management
+- 🔄 **Platform migrations and rebuilds:** WordPress → Laravel, custom Laravel builds for health, staffing and life-science clients
 - 🧬 **Biotech and pharma websites:** such as [**AAPharmaSyn**](https://aapharmasyn.com/) (contract research organisation with a research-chemicals catalogue and online ordering) and [**Mitophilix**](https://www.mitophilix.com/) (oncology drug-discovery company with interactive molecular visuals)
 - 🛒 **E-commerce:** CS-Cart, WooCommerce and custom Laravel stores
 - 🤖 **AI integration:** AI chat modules and recommendation systems for client platforms
 - 📈 **SEO and performance:** technical SEO, speed optimisation and WordPress/Elementor builds
 
-  ### 🧬 Selected life-science work
+  ### 🌐 Selected projects
 
-| Project | What it is |
-|---|---|
-| [AAPharmaSyn](https://aapharmasyn.com/) | Website for a CRO serving pharma and biotech clients, with service pages, a research-tools catalogue with cart, and a resources/white-paper section |
-| [Mitophilix](https://www.mitophilix.com/) | Investor- and partner-facing site for a cancer drug-discovery company, with science, pipeline and team pages and interactive molecular diagrams |
+| Project | Industry | What I did |
+|---|---|---|
+| [KONNEX Zeitarbeit](https://www.konnex-zeitarbeit.de/) | Staffing / recruitment (Germany) | Redeveloped the company website from WordPress to **Laravel**: job listings, applications and service pages for job seekers and employers |
+| [TANQ Supps](https://tanq-supps.de/) | Health & wellness (Germany) | Built the original **Laravel** site for a sports-supplement brand, with box packages and subscriptions. The store has since been rebuilt on Shopify |
+| [AAPharmaSyn](https://aapharmasyn.com/) | Biotech / pharma (USA) | Website for a contract research organisation, with service pages, a research-tools catalogue with cart, and a resources section |
+| [Mitophilix](https://www.mitophilix.com/) | Biotech / oncology | Investor- and partner-facing site for a cancer drug-discovery company, with interactive molecular diagrams |
 
 ### 🤖 Featured: AI Product Recommendations for CS-Cart
 
